@@ -16,6 +16,7 @@
 - [Elisha Tetteyfio](https://github.com/Elisha-Tetteyfio)
 - [dna737](https://github.com/dna737)
 Avinash Jha
+- Barbara Wong (https://github.com/BWong88)
 - [Salma Hamdi](https://github.com/Salma-2)
 [jay persad](https://github.com/jasonprogrammer775)
 - [Diego Parra](https://github.com/0bCdian)
