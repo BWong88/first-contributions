@@ -49,6 +49,7 @@ Avinash Jha
 - [Sierra Nash](https://github.com/sasianan19)
 - [Pranav Joshi](https://github.com/PranavJoshi2893)
 - [Josh Noh](https://github.com/NohTaeHwan)
+- Barbara Wong (https://github.com/BWong88)
 - [Siddharth Rathore](https://github.com/s1dbugs)
 - [Harsh Kumar Raj](https://github.com/harshkumarraj)
 - [Srini] (https://github.com/ssiripuram)
